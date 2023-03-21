@@ -22,7 +22,7 @@ To use Flask-MQTT Alarm Logs, follow these steps:
 
 shell
 
-$ git clone https://github.com/fatihkurtl/flask-mqtt_alarm_logs2.git
+$ git clone https://github.com/fatihkurtl/flask-mqtt_alarm_logs.git
 $ cd flask-mqtt_alarm_logs
 $ python -m venv venv
 $ source venv/bin/activate
